@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.exe
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.deps.json
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.runtimeconfig.json
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.runtimeconfig.dev.json
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.dll
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\bin\Debug\netcoreapp3.1\03.RectangelArea.pdb
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.AssemblyInfo.cs
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.dll
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.pdb
+C:\Users\danie\Desktop\C#\01FirstStepsinCoding-Lab\03.RectangelArea\obj\Debug\netcoreapp3.1\03.RectangelArea.genruntimeconfig.cache
